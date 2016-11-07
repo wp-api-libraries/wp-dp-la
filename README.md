@@ -1,2 +1,2 @@
 # wp-dp-la
-Wordpress library for the Digital Public Library of America - DPLA
+Wordpress PHP library for interacting with the Digital Public Library of America API - [DPLA API Docs](https://dp.la/info/developers/codex/)
